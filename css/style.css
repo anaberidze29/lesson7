@@ -34,5 +34,5 @@
 }
 @keyframes fly-bee-animation {
     from {transform: translateX(0px);}
-    to {transform: translateX(600px);}  
+    to {transform: translateX(1300px);}  
 }
